@@ -1,4 +1,4 @@
-# 🎨 Scalineous: AI-Powered Art Generation & Web3 Creator Marketplace
+# 🎨 Scalinox: AI-Powered Art Generation & Web3 Creator Marketplace
 
 **Project URL:** `[LINK TO YOUR DEVPOST/GITHUB REPO]`
 
@@ -14,7 +14,7 @@ How can we empower everyday users to bring their most imaginative visions to lif
 
 ## 2. Our Solution: A Dual Ecosystem
 
-**Scalineous** is a web-based creative suite and a two-sided marketplace that bridges the gap between imagination and creation.
+**Scalinox** is a web-based creative suite and a two-sided marketplace that bridges the gap between imagination and creation.
 
 * **For Creators:** An intuitive canvas where users sketch ideas. Our AI, powered by **Gemini**, transforms those sketches into stunning artwork and animations.
 * **For Artists & Developers:** A decentralized Web3 marketplace on **Solana** where artists can:
@@ -61,7 +61,7 @@ This project was built to strategically align with the Hack CBS 8.0 sponsors.
 ## 6. Future Scope
 
 * **Advanced Marketplace Features**: Implement a rating system, milestone-based payments, and a dispute resolution mechanism.
-* **Token-Gated Access**: Introduce special features or exclusive styles for users holding a "Scalineous" NFT.
+* **Token-Gated Access**: Introduce special features or exclusive styles for users holding a "Scalinox" NFT.
 * **Community Hub**: Build a gallery where users can share their creations, follow their favorite artists, and participate in creative challenges.
 
 ## 7. Meet the Team
